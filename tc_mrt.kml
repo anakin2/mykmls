@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>台中捷運烏日文心北屯線</name>
+    <description/>
+    <NetworkLink>
+      <name>台中捷運烏日文心北屯線</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/u/0/kml?forcekml=1&mid=17M-t-8zWCDMHCCHsg32ttre5y98-kFix]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
